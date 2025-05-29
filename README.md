@@ -82,3 +82,21 @@ This project is licensed under the Apache License 2.0.
 See the [LICENSE](./LICENSE) file for details.
 
 You are free to use, modify, and distribute this software under the terms of the Apache License 2.0.
+
+## Contact / Support
+
+For any questions, issues, or collaboration inquiries related to this project, please feel free to contact the authors:
+
+- **Dr. Pradeep Singh** – Post-Doctoral
+  Researcher and Principal Investigator at the Machine Intelligence Lab, Department of Computer
+  Science and Engineering, IIT Roorkee
+
+  Email: pradeep.cs@sric.iitr.ac.in
+
+- **Kanishk Sharma** – M.Tech CSE, IIT Roorkee  
+  Email: kanishk_s@cs.iitr.ac.in
+
+- **Dr. Balasubramanian Raman** – Professor (HAG) and Head of the Department of Computer Science & Engineering, IIT Roorkee  
+  Email: bala@cs.iitr.ac.in
+
+We welcome feedback, bug reports, and contributions!

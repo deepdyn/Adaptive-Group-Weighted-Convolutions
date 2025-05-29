@@ -1,0 +1,688 @@
+==========================================
+SLURM_CLUSTER_NAME = paramganga
+SLURM_ARRAY_JOB_ID = 
+SLURM_ARRAY_TASK_ID = 
+SLURM_ARRAY_TASK_COUNT = 
+SLURM_ARRAY_TASK_MAX = 
+SLURM_ARRAY_TASK_MIN = 
+SLURM_JOB_ACCOUNT = iitr
+SLURM_JOB_ID = 383149
+SLURM_JOB_NAME = mnist
+SLURM_JOB_NODELIST = gpu017
+SLURM_JOB_USER = pradeep.cs.iitr
+SLURM_JOB_UID = 38551
+SLURM_JOB_PARTITION = gpu
+SLURM_TASK_PID = 2210
+SLURM_SUBMIT_DIR = /scratch/pradeep.cs.iitr/Kanishk/mnist
+SLURM_CPUS_ON_NODE = 1
+SLURM_NTASKS = 
+SLURM_TASK_PID = 2210
+==========================================
+Training GCNN Model...
+Total parameters: 26,240
+
+Starting Training...
+
+--- Epoch 1/150 ---
+Current LR: 0.100000
+Train Epoch: 1 | Loss: 0.0052 | Accuracy: 77.86%
+Test set: Average loss: 0.0012 | Accuracy: 95.62%
+
+Validation accuracy improved (0.00% -> 95.62%). Saving model...
+
+--- Epoch 2/150 ---
+Current LR: 0.100000
+Train Epoch: 2 | Loss: 0.0007 | Accuracy: 97.08%
+Test set: Average loss: 0.0049 | Accuracy: 79.90%
+
+Validation accuracy did not improve for 1 epoch(s).
+
+--- Epoch 3/150 ---
+Current LR: 0.100000
+Train Epoch: 3 | Loss: 0.0006 | Accuracy: 97.80%
+Test set: Average loss: 0.0013 | Accuracy: 95.20%
+
+Validation accuracy did not improve for 2 epoch(s).
+
+--- Epoch 4/150 ---
+Current LR: 0.100000
+Train Epoch: 4 | Loss: 0.0005 | Accuracy: 97.84%
+Test set: Average loss: 0.0033 | Accuracy: 85.52%
+
+Validation accuracy did not improve for 3 epoch(s).
+
+--- Epoch 5/150 ---
+Current LR: 0.100000
+Train Epoch: 5 | Loss: 0.0005 | Accuracy: 98.10%
+Test set: Average loss: 0.0006 | Accuracy: 97.88%
+
+Validation accuracy improved (95.62% -> 97.88%). Saving model...
+
+--- Epoch 6/150 ---
+Current LR: 0.100000
+Train Epoch: 6 | Loss: 0.0004 | Accuracy: 98.22%
+Test set: Average loss: 0.0008 | Accuracy: 96.84%
+
+Validation accuracy did not improve for 1 epoch(s).
+
+--- Epoch 7/150 ---
+Current LR: 0.100000
+Train Epoch: 7 | Loss: 0.0004 | Accuracy: 98.28%
+Test set: Average loss: 0.0007 | Accuracy: 97.44%
+
+Validation accuracy did not improve for 2 epoch(s).
+
+--- Epoch 8/150 ---
+Current LR: 0.100000
+Train Epoch: 8 | Loss: 0.0004 | Accuracy: 98.31%
+Test set: Average loss: 0.0008 | Accuracy: 96.88%
+
+Validation accuracy did not improve for 3 epoch(s).
+
+--- Epoch 9/150 ---
+Current LR: 0.100000
+Train Epoch: 9 | Loss: 0.0004 | Accuracy: 98.43%
+Test set: Average loss: 0.0006 | Accuracy: 97.86%
+
+Validation accuracy did not improve for 4 epoch(s).
+
+--- Epoch 10/150 ---
+Current LR: 0.100000
+Train Epoch: 10 | Loss: 0.0004 | Accuracy: 98.48%
+Test set: Average loss: 0.0006 | Accuracy: 97.64%
+
+Validation accuracy did not improve for 5 epoch(s).
+
+--- Epoch 11/150 ---
+Current LR: 0.100000
+Train Epoch: 11 | Loss: 0.0004 | Accuracy: 98.53%
+Test set: Average loss: 0.0006 | Accuracy: 97.46%
+
+Validation accuracy did not improve for 6 epoch(s).
+
+--- Epoch 12/150 ---
+Current LR: 0.100000
+Train Epoch: 12 | Loss: 0.0004 | Accuracy: 98.61%
+Test set: Average loss: 0.0006 | Accuracy: 97.88%
+
+Validation accuracy did not improve for 7 epoch(s).
+
+--- Epoch 13/150 ---
+Current LR: 0.100000
+Train Epoch: 13 | Loss: 0.0003 | Accuracy: 98.63%
+Test set: Average loss: 0.0009 | Accuracy: 96.42%
+
+Validation accuracy did not improve for 8 epoch(s).
+
+--- Epoch 14/150 ---
+Current LR: 0.100000
+Train Epoch: 14 | Loss: 0.0003 | Accuracy: 98.63%
+Test set: Average loss: 0.0005 | Accuracy: 98.06%
+
+Validation accuracy improved (97.88% -> 98.06%). Saving model...
+
+--- Epoch 15/150 ---
+Current LR: 0.100000
+Train Epoch: 15 | Loss: 0.0003 | Accuracy: 98.66%
+Test set: Average loss: 0.0004 | Accuracy: 98.52%
+
+Validation accuracy improved (98.06% -> 98.52%). Saving model...
+
+--- Epoch 16/150 ---
+Current LR: 0.100000
+Train Epoch: 16 | Loss: 0.0003 | Accuracy: 98.69%
+Test set: Average loss: 0.0009 | Accuracy: 96.92%
+
+Validation accuracy did not improve for 1 epoch(s).
+
+--- Epoch 17/150 ---
+Current LR: 0.100000
+Train Epoch: 17 | Loss: 0.0003 | Accuracy: 98.74%
+Test set: Average loss: 0.0006 | Accuracy: 97.60%
+
+Validation accuracy did not improve for 2 epoch(s).
+
+--- Epoch 18/150 ---
+Current LR: 0.100000
+Train Epoch: 18 | Loss: 0.0003 | Accuracy: 98.73%
+Test set: Average loss: 0.0007 | Accuracy: 97.22%
+
+Validation accuracy did not improve for 3 epoch(s).
+
+--- Epoch 19/150 ---
+Current LR: 0.100000
+Train Epoch: 19 | Loss: 0.0003 | Accuracy: 98.76%
+Test set: Average loss: 0.0007 | Accuracy: 97.50%
+
+Validation accuracy did not improve for 4 epoch(s).
+
+--- Epoch 20/150 ---
+Current LR: 0.100000
+Train Epoch: 20 | Loss: 0.0003 | Accuracy: 98.83%
+Test set: Average loss: 0.0007 | Accuracy: 97.28%
+
+Validation accuracy did not improve for 5 epoch(s).
+
+--- Epoch 21/150 ---
+Current LR: 0.100000
+Train Epoch: 21 | Loss: 0.0003 | Accuracy: 98.71%
+Test set: Average loss: 0.0004 | Accuracy: 98.60%
+
+Validation accuracy improved (98.52% -> 98.60%). Saving model...
+
+--- Epoch 22/150 ---
+Current LR: 0.100000
+Train Epoch: 22 | Loss: 0.0003 | Accuracy: 98.79%
+Test set: Average loss: 0.0006 | Accuracy: 97.76%
+
+Validation accuracy did not improve for 1 epoch(s).
+
+--- Epoch 23/150 ---
+Current LR: 0.100000
+Train Epoch: 23 | Loss: 0.0003 | Accuracy: 98.86%
+Test set: Average loss: 0.0007 | Accuracy: 97.46%
+
+Validation accuracy did not improve for 2 epoch(s).
+
+--- Epoch 24/150 ---
+Current LR: 0.100000
+Train Epoch: 24 | Loss: 0.0003 | Accuracy: 98.78%
+Test set: Average loss: 0.0006 | Accuracy: 97.90%
+
+Validation accuracy did not improve for 3 epoch(s).
+
+--- Epoch 25/150 ---
+Current LR: 0.100000
+Train Epoch: 25 | Loss: 0.0003 | Accuracy: 98.75%
+Test set: Average loss: 0.0004 | Accuracy: 98.46%
+
+Validation accuracy did not improve for 4 epoch(s).
+
+--- Epoch 26/150 ---
+Current LR: 0.100000
+Train Epoch: 26 | Loss: 0.0003 | Accuracy: 98.86%
+Test set: Average loss: 0.0009 | Accuracy: 96.82%
+
+Validation accuracy did not improve for 5 epoch(s).
+
+--- Epoch 27/150 ---
+Current LR: 0.100000
+Train Epoch: 27 | Loss: 0.0003 | Accuracy: 98.79%
+Test set: Average loss: 0.0004 | Accuracy: 98.36%
+
+Validation accuracy did not improve for 6 epoch(s).
+
+--- Epoch 28/150 ---
+Current LR: 0.100000
+Train Epoch: 28 | Loss: 0.0003 | Accuracy: 98.87%
+Test set: Average loss: 0.0004 | Accuracy: 98.24%
+
+Validation accuracy did not improve for 7 epoch(s).
+
+--- Epoch 29/150 ---
+Current LR: 0.100000
+Train Epoch: 29 | Loss: 0.0003 | Accuracy: 98.94%
+Test set: Average loss: 0.0005 | Accuracy: 98.22%
+
+Validation accuracy did not improve for 8 epoch(s).
+
+--- Epoch 30/150 ---
+Current LR: 0.100000
+Train Epoch: 30 | Loss: 0.0003 | Accuracy: 98.85%
+Test set: Average loss: 0.0004 | Accuracy: 98.36%
+
+Validation accuracy did not improve for 9 epoch(s).
+
+--- Epoch 31/150 ---
+Current LR: 0.100000
+Train Epoch: 31 | Loss: 0.0003 | Accuracy: 98.87%
+Test set: Average loss: 0.0005 | Accuracy: 98.10%
+
+Validation accuracy did not improve for 10 epoch(s).
+
+--- Epoch 32/150 ---
+Current LR: 0.100000
+Train Epoch: 32 | Loss: 0.0003 | Accuracy: 98.78%
+Test set: Average loss: 0.0005 | Accuracy: 98.46%
+
+Validation accuracy did not improve for 11 epoch(s).
+
+--- Epoch 33/150 ---
+Current LR: 0.100000
+Train Epoch: 33 | Loss: 0.0003 | Accuracy: 98.83%
+Test set: Average loss: 0.0005 | Accuracy: 98.14%
+
+Validation accuracy did not improve for 12 epoch(s).
+
+--- Epoch 34/150 ---
+Current LR: 0.100000
+Train Epoch: 34 | Loss: 0.0003 | Accuracy: 98.89%
+Test set: Average loss: 0.0004 | Accuracy: 98.60%
+
+Validation accuracy did not improve for 13 epoch(s).
+
+--- Epoch 35/150 ---
+Current LR: 0.100000
+Train Epoch: 35 | Loss: 0.0003 | Accuracy: 98.80%
+Test set: Average loss: 0.0004 | Accuracy: 98.68%
+
+Validation accuracy improved (98.60% -> 98.68%). Saving model...
+
+--- Epoch 36/150 ---
+Current LR: 0.100000
+Train Epoch: 36 | Loss: 0.0003 | Accuracy: 98.88%
+Test set: Average loss: 0.0007 | Accuracy: 97.64%
+
+Validation accuracy did not improve for 1 epoch(s).
+
+--- Epoch 37/150 ---
+Current LR: 0.100000
+Train Epoch: 37 | Loss: 0.0003 | Accuracy: 98.80%
+Test set: Average loss: 0.0003 | Accuracy: 98.78%
+
+Validation accuracy improved (98.68% -> 98.78%). Saving model...
+
+--- Epoch 38/150 ---
+Current LR: 0.100000
+Train Epoch: 38 | Loss: 0.0003 | Accuracy: 98.94%
+Test set: Average loss: 0.0022 | Accuracy: 91.76%
+
+Validation accuracy did not improve for 1 epoch(s).
+
+--- Epoch 39/150 ---
+Current LR: 0.100000
+Train Epoch: 39 | Loss: 0.0003 | Accuracy: 98.89%
+Test set: Average loss: 0.0005 | Accuracy: 98.42%
+
+Validation accuracy did not improve for 2 epoch(s).
+
+--- Epoch 40/150 ---
+Current LR: 0.100000
+Train Epoch: 40 | Loss: 0.0003 | Accuracy: 98.86%
+Test set: Average loss: 0.0011 | Accuracy: 96.10%
+
+Validation accuracy did not improve for 3 epoch(s).
+
+--- Epoch 41/150 ---
+Current LR: 0.100000
+Train Epoch: 41 | Loss: 0.0003 | Accuracy: 98.85%
+Test set: Average loss: 0.0004 | Accuracy: 98.32%
+
+Validation accuracy did not improve for 4 epoch(s).
+
+--- Epoch 42/150 ---
+Current LR: 0.100000
+Train Epoch: 42 | Loss: 0.0003 | Accuracy: 98.83%
+Test set: Average loss: 0.0003 | Accuracy: 98.88%
+
+Validation accuracy improved (98.78% -> 98.88%). Saving model...
+
+--- Epoch 43/150 ---
+Current LR: 0.100000
+Train Epoch: 43 | Loss: 0.0003 | Accuracy: 98.99%
+Test set: Average loss: 0.0004 | Accuracy: 98.38%
+
+Validation accuracy did not improve for 1 epoch(s).
+
+--- Epoch 44/150 ---
+Current LR: 0.100000
+Train Epoch: 44 | Loss: 0.0003 | Accuracy: 98.88%
+Test set: Average loss: 0.0004 | Accuracy: 98.62%
+
+Validation accuracy did not improve for 2 epoch(s).
+
+--- Epoch 45/150 ---
+Current LR: 0.100000
+Train Epoch: 45 | Loss: 0.0003 | Accuracy: 98.89%
+Test set: Average loss: 0.0004 | Accuracy: 98.60%
+
+Validation accuracy did not improve for 3 epoch(s).
+
+--- Epoch 46/150 ---
+Current LR: 0.100000
+Train Epoch: 46 | Loss: 0.0003 | Accuracy: 98.98%
+Test set: Average loss: 0.0004 | Accuracy: 98.36%
+
+Validation accuracy did not improve for 4 epoch(s).
+
+--- Epoch 47/150 ---
+Current LR: 0.100000
+Train Epoch: 47 | Loss: 0.0003 | Accuracy: 98.84%
+Test set: Average loss: 0.0006 | Accuracy: 98.14%
+
+Validation accuracy did not improve for 5 epoch(s).
+
+--- Epoch 48/150 ---
+Current LR: 0.100000
+Train Epoch: 48 | Loss: 0.0003 | Accuracy: 98.94%
+Test set: Average loss: 0.0005 | Accuracy: 98.32%
+
+Validation accuracy did not improve for 6 epoch(s).
+
+--- Epoch 49/150 ---
+Current LR: 0.100000
+Train Epoch: 49 | Loss: 0.0003 | Accuracy: 98.96%
+Test set: Average loss: 0.0005 | Accuracy: 98.06%
+
+Validation accuracy did not improve for 7 epoch(s).
+
+--- Epoch 50/150 ---
+Current LR: 0.100000
+Train Epoch: 50 | Loss: 0.0003 | Accuracy: 98.90%
+Test set: Average loss: 0.0004 | Accuracy: 98.40%
+
+Validation accuracy did not improve for 8 epoch(s).
+
+--- Epoch 51/150 ---
+Current LR: 0.100000
+Train Epoch: 51 | Loss: 0.0003 | Accuracy: 98.93%
+Test set: Average loss: 0.0007 | Accuracy: 97.46%
+
+Validation accuracy did not improve for 9 epoch(s).
+
+--- Epoch 52/150 ---
+Current LR: 0.100000
+Train Epoch: 52 | Loss: 0.0003 | Accuracy: 98.91%
+Test set: Average loss: 0.0006 | Accuracy: 97.92%
+
+Validation accuracy did not improve for 10 epoch(s).
+
+--- Epoch 53/150 ---
+Current LR: 0.100000
+Train Epoch: 53 | Loss: 0.0003 | Accuracy: 98.97%
+Test set: Average loss: 0.0003 | Accuracy: 98.86%
+
+Validation accuracy did not improve for 11 epoch(s).
+
+--- Epoch 54/150 ---
+Current LR: 0.100000
+Train Epoch: 54 | Loss: 0.0003 | Accuracy: 98.93%
+Test set: Average loss: 0.0004 | Accuracy: 98.76%
+
+Validation accuracy did not improve for 12 epoch(s).
+
+--- Epoch 55/150 ---
+Current LR: 0.100000
+Train Epoch: 55 | Loss: 0.0003 | Accuracy: 98.90%
+Test set: Average loss: 0.0003 | Accuracy: 98.60%
+
+Validation accuracy did not improve for 13 epoch(s).
+
+--- Epoch 56/150 ---
+Current LR: 0.100000
+Train Epoch: 56 | Loss: 0.0003 | Accuracy: 98.95%
+Test set: Average loss: 0.0003 | Accuracy: 98.86%
+
+Validation accuracy did not improve for 14 epoch(s).
+
+--- Epoch 57/150 ---
+Current LR: 0.100000
+Train Epoch: 57 | Loss: 0.0003 | Accuracy: 98.95%
+Test set: Average loss: 0.0007 | Accuracy: 97.24%
+
+Validation accuracy did not improve for 15 epoch(s).
+
+--- Epoch 58/150 ---
+Current LR: 0.100000
+Train Epoch: 58 | Loss: 0.0003 | Accuracy: 98.95%
+Test set: Average loss: 0.0006 | Accuracy: 97.36%
+
+Validation accuracy did not improve for 16 epoch(s).
+
+--- Epoch 59/150 ---
+Current LR: 0.100000
+Train Epoch: 59 | Loss: 0.0003 | Accuracy: 98.92%
+Test set: Average loss: 0.0004 | Accuracy: 98.70%
+
+Validation accuracy did not improve for 17 epoch(s).
+
+--- Epoch 60/150 ---
+Current LR: 0.100000
+Train Epoch: 60 | Loss: 0.0003 | Accuracy: 98.97%
+Test set: Average loss: 0.0003 | Accuracy: 98.92%
+
+Validation accuracy improved (98.88% -> 98.92%). Saving model...
+
+--- Epoch 61/150 ---
+Current LR: 0.010000
+Train Epoch: 61 | Loss: 0.0001 | Accuracy: 99.60%
+Test set: Average loss: 0.0002 | Accuracy: 99.42%
+
+Validation accuracy improved (98.92% -> 99.42%). Saving model...
+
+--- Epoch 62/150 ---
+Current LR: 0.010000
+Train Epoch: 62 | Loss: 0.0001 | Accuracy: 99.71%
+Test set: Average loss: 0.0002 | Accuracy: 99.36%
+
+Validation accuracy did not improve for 1 epoch(s).
+
+--- Epoch 63/150 ---
+Current LR: 0.010000
+Train Epoch: 63 | Loss: 0.0001 | Accuracy: 99.78%
+Test set: Average loss: 0.0002 | Accuracy: 99.40%
+
+Validation accuracy did not improve for 2 epoch(s).
+
+--- Epoch 64/150 ---
+Current LR: 0.010000
+Train Epoch: 64 | Loss: 0.0001 | Accuracy: 99.84%
+Test set: Average loss: 0.0002 | Accuracy: 99.38%
+
+Validation accuracy did not improve for 3 epoch(s).
+
+--- Epoch 65/150 ---
+Current LR: 0.010000
+Train Epoch: 65 | Loss: 0.0000 | Accuracy: 99.86%
+Test set: Average loss: 0.0002 | Accuracy: 99.42%
+
+Validation accuracy did not improve for 4 epoch(s).
+
+--- Epoch 66/150 ---
+Current LR: 0.010000
+Train Epoch: 66 | Loss: 0.0000 | Accuracy: 99.88%
+Test set: Average loss: 0.0002 | Accuracy: 99.42%
+
+Validation accuracy did not improve for 5 epoch(s).
+
+--- Epoch 67/150 ---
+Current LR: 0.010000
+Train Epoch: 67 | Loss: 0.0000 | Accuracy: 99.89%
+Test set: Average loss: 0.0002 | Accuracy: 99.42%
+
+Validation accuracy did not improve for 6 epoch(s).
+
+--- Epoch 68/150 ---
+Current LR: 0.010000
+Train Epoch: 68 | Loss: 0.0000 | Accuracy: 99.93%
+Test set: Average loss: 0.0002 | Accuracy: 99.48%
+
+Validation accuracy improved (99.42% -> 99.48%). Saving model...
+
+--- Epoch 69/150 ---
+Current LR: 0.010000
+Train Epoch: 69 | Loss: 0.0000 | Accuracy: 99.95%
+Test set: Average loss: 0.0002 | Accuracy: 99.32%
+
+Validation accuracy did not improve for 1 epoch(s).
+
+--- Epoch 70/150 ---
+Current LR: 0.010000
+Train Epoch: 70 | Loss: 0.0000 | Accuracy: 99.96%
+Test set: Average loss: 0.0002 | Accuracy: 99.38%
+
+Validation accuracy did not improve for 2 epoch(s).
+
+--- Epoch 71/150 ---
+Current LR: 0.010000
+Train Epoch: 71 | Loss: 0.0000 | Accuracy: 99.97%
+Test set: Average loss: 0.0002 | Accuracy: 99.42%
+
+Validation accuracy did not improve for 3 epoch(s).
+
+--- Epoch 72/150 ---
+Current LR: 0.010000
+Train Epoch: 72 | Loss: 0.0000 | Accuracy: 99.96%
+Test set: Average loss: 0.0002 | Accuracy: 99.38%
+
+Validation accuracy did not improve for 4 epoch(s).
+
+--- Epoch 73/150 ---
+Current LR: 0.010000
+Train Epoch: 73 | Loss: 0.0000 | Accuracy: 99.98%
+Test set: Average loss: 0.0002 | Accuracy: 99.36%
+
+Validation accuracy did not improve for 5 epoch(s).
+
+--- Epoch 74/150 ---
+Current LR: 0.010000
+Train Epoch: 74 | Loss: 0.0000 | Accuracy: 99.98%
+Test set: Average loss: 0.0002 | Accuracy: 99.40%
+
+Validation accuracy did not improve for 6 epoch(s).
+
+--- Epoch 75/150 ---
+Current LR: 0.010000
+Train Epoch: 75 | Loss: 0.0000 | Accuracy: 99.99%
+Test set: Average loss: 0.0002 | Accuracy: 99.32%
+
+Validation accuracy did not improve for 7 epoch(s).
+
+--- Epoch 76/150 ---
+Current LR: 0.010000
+Train Epoch: 76 | Loss: 0.0000 | Accuracy: 99.99%
+Test set: Average loss: 0.0002 | Accuracy: 99.34%
+
+Validation accuracy did not improve for 8 epoch(s).
+
+--- Epoch 77/150 ---
+Current LR: 0.010000
+Train Epoch: 77 | Loss: 0.0000 | Accuracy: 99.99%
+Test set: Average loss: 0.0002 | Accuracy: 99.32%
+
+Validation accuracy did not improve for 9 epoch(s).
+
+--- Epoch 78/150 ---
+Current LR: 0.010000
+Train Epoch: 78 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.38%
+
+Validation accuracy did not improve for 10 epoch(s).
+
+--- Epoch 79/150 ---
+Current LR: 0.010000
+Train Epoch: 79 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.32%
+
+Validation accuracy did not improve for 11 epoch(s).
+
+--- Epoch 80/150 ---
+Current LR: 0.010000
+Train Epoch: 80 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.32%
+
+Validation accuracy did not improve for 12 epoch(s).
+
+--- Epoch 81/150 ---
+Current LR: 0.010000
+Train Epoch: 81 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.36%
+
+Validation accuracy did not improve for 13 epoch(s).
+
+--- Epoch 82/150 ---
+Current LR: 0.010000
+Train Epoch: 82 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.36%
+
+Validation accuracy did not improve for 14 epoch(s).
+
+--- Epoch 83/150 ---
+Current LR: 0.010000
+Train Epoch: 83 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.34%
+
+Validation accuracy did not improve for 15 epoch(s).
+
+--- Epoch 84/150 ---
+Current LR: 0.010000
+Train Epoch: 84 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.32%
+
+Validation accuracy did not improve for 16 epoch(s).
+
+--- Epoch 85/150 ---
+Current LR: 0.010000
+Train Epoch: 85 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.36%
+
+Validation accuracy did not improve for 17 epoch(s).
+
+--- Epoch 86/150 ---
+Current LR: 0.010000
+Train Epoch: 86 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.38%
+
+Validation accuracy did not improve for 18 epoch(s).
+
+--- Epoch 87/150 ---
+Current LR: 0.010000
+Train Epoch: 87 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.36%
+
+Validation accuracy did not improve for 19 epoch(s).
+
+--- Epoch 88/150 ---
+Current LR: 0.010000
+Train Epoch: 88 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.42%
+
+Validation accuracy did not improve for 20 epoch(s).
+
+--- Epoch 89/150 ---
+Current LR: 0.010000
+Train Epoch: 89 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.36%
+
+Validation accuracy did not improve for 21 epoch(s).
+
+--- Epoch 90/150 ---
+Current LR: 0.010000
+Train Epoch: 90 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.38%
+
+Validation accuracy did not improve for 22 epoch(s).
+
+--- Epoch 91/150 ---
+Current LR: 0.010000
+Train Epoch: 91 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.38%
+
+Validation accuracy did not improve for 23 epoch(s).
+
+--- Epoch 92/150 ---
+Current LR: 0.010000
+Train Epoch: 92 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.38%
+
+Validation accuracy did not improve for 24 epoch(s).
+
+--- Epoch 93/150 ---
+Current LR: 0.010000
+Train Epoch: 93 | Loss: 0.0000 | Accuracy: 100.00%
+Test set: Average loss: 0.0002 | Accuracy: 99.40%
+
+Validation accuracy did not improve for 25 epoch(s).
+
+Early stopping triggered after 25 epochs without improvement.
+
+Training finished.
+
+Loading best model from ./models/GCNN_best_tuned.pth for final evaluation...
+Test set: Average loss: 0.0002 | Accuracy: 99.41%
+
+
+Final Test Accuracy (Best GCNN Model): 99.41%
+seed 1 	p4m	99.41%
+Expected Calibration Error: 0.0021
+p4m     : 99.41 ± 0.00  (n=1)

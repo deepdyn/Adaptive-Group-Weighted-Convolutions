@@ -93,10 +93,12 @@ For any questions, issues, or collaboration inquiries related to this project, p
 
   Email: pradeep.cs@sric.iitr.ac.in
 
-- **Kanishk Sharma** – M.Tech, Department of Computer Science and Engineering, IIT Roorkee  
+- **Kanishk Sharma** – M.Tech, Department of Computer Science and Engineering, IIT Roorkee
+  
   Email: kanishk_s@cs.iitr.ac.in
 
-- **Dr. R. Balasubramanian** – Professor (HAG) and Head of the Department of Computer Science & Engineering, IIT Roorkee  
+- **Dr. R. Balasubramanian** – Professor (HAG) and Head of the Department of Computer Science & Engineering, IIT Roorkee
+  
   Email: bala@cs.iitr.ac.in
 
 We welcome feedback, bug reports, and contributions!

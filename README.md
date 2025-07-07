@@ -87,7 +87,7 @@ You are free to use, modify, and distribute this software under the terms of the
 
 For any questions, issues, or collaboration inquiries related to this project, please feel free to contact the authors:
 
-- **Dr. Pradeep Singh** – Post-Doctoral
+- **Dr. S. Pradeep** – Post-Doctoral
   Researcher and Principal Investigator at the Machine Intelligence Lab, Department of Computer
   Science and Engineering, IIT Roorkee
 
@@ -96,7 +96,8 @@ For any questions, issues, or collaboration inquiries related to this project, p
 - **Kanishk Sharma** – M.Tech, Department of Computer Science and Engineering, IIT Roorkee  
   Email: kanishk_s@cs.iitr.ac.in
 
-- **Dr. Balasubramanian Raman** – Professor (HAG) and Head of the Department of Computer Science & Engineering, IIT Roorkee  
+- **Dr. R. Balasubramanian** – Professor (HAG) and Head of the Department of Computer Science & Engineering, IIT Roorkee  
   Email: bala@cs.iitr.ac.in
 
 We welcome feedback, bug reports, and contributions!
+
